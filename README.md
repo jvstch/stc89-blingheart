@@ -12,11 +12,11 @@ Open firmware for STC89C52RC based Commonly available Heart Shaped LED PCB kit
   series the only thing you need to program is a $2 USB-Serial converter and connect the 4
   wires as below:
   
-  STC Micro ---   USB Serial converter
-  VCC       ---   VCC
-  GND       ---   GND
-  RX(P3.0)  ---   TX
-  TX(P3.1)  ---   RX
+    STC Micro ---   USB Serial converter
+    VCC       ---   VCC
+    GND       ---   GND
+    RX(P3.0)  ---   TX
+    TX(P3.1)  ---   RX
   
   This is a bare basic code which aim the replicate the effects that these PCB kit's comes 
   pre-programmed with.
