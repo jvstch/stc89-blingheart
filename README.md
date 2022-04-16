@@ -1,5 +1,7 @@
 # stc89-blingheart
 Open firmware for STC89C52RC based Commonly available Heart Shaped LED PCB kit 
+### Details in the below youtube video:
+  https://youtu.be/giRV_Y_Iqjg
 
 ## Description
   STC89C52RC in one of the best and faithful implementation of the classic intel 80C51 micro
